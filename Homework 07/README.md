@@ -12,4 +12,9 @@ Name : Nattakit Keawwilai        6220422030
 
 Find Association rule of items those are frequent items set at minimum support = 0.5 and Lift > 1
 
-H
+![Screenshot](associate.JPG)
+
+### colab Result : [Product Recommendation](https://github.com/NKSnack/BADS-7105/blob/main/Homework%2007/Product_Recommendation.ipynb)
+
+## Graph network show the relationship on each pair of items
+![Screenshot](Network.JPG)
