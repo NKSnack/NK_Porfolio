@@ -7,14 +7,14 @@ ID : 6220422030
 #### Topic : Improvement Model accuracy rate and baseline model performance by machine learning techniques.
 
 ### Data Exploratory
-Distirbuted total transaction amount
-![Screenshot]()
-Total amount and Total customer by time
-![Screenshot]()
+### Distirbuted total transaction amount
+![Screenshot](distributed.JPG)
+#### Total amount and Total customer by time
+![Screenshot](totalamount.JPG)
 
 ### Data Preparation
 ### create data set with RFM variables
-![Screenshot](rfm)
+![Screenshot](rfm.JPG)
 ### Created feature as below
 1. transaction amount on Weekend/Weekday
 2. transaction define Size of Amount (S,M,L)
@@ -23,9 +23,9 @@ Total amount and Total customer by time
 5. Frequency
 
 ### Calculating response rate
-![Screenshot](imbalance)
-
 ### Imbalance campaign response data with label
+![Screenshot](imbalance.JPG)
+
 
 
 ## Data Re-sampling
@@ -39,8 +39,17 @@ SMOTE-Tomek Links
 #### 2.XG-Boost
 
 ## Result
-## Logistic Regression
+### Logistic Regression
 | Resampling Method| Train max | Test max |
 |------------------|-----------|----------|
-|  Under Sampling  |   0.63    |   0.65   |
-|
+|  Under sampling  |   0.63    |   0.65   |
+|  Over sampling   |   0.63    |   0.65   |
+|      Smote       |   0.63    |   0.65   |
+### XG-Boost
+| Resampling Method| Train max | Test max |
+|------------------|-----------|----------|
+|  Under sampling  |   0.65    |   0.64   |
+|  Over sampling   |   0.68    |   0.67   |
+|      Smote       |   0.90    |   0.90   |
+
+### According accuracy result table at XG-Boost model and Re-sampling by SMOTE provide the best perfromance of model at accuracy about 0.90 and cross vadiation can be increased the model performance.
