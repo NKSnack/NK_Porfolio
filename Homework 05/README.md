@@ -1,6 +1,6 @@
 #   Homework 5 CLV Dashboard
 Name : Nattakit Keawwilai        6220422030
-#### Dataset : CSV file DataSupermarket transaction between 2006 - 2008.
+#### Dataset : CSV file Data Supermarket transaction between 2006 - 2008.
 
 #### Method : 
  1) Prepare data set, Cleansing missing data   
