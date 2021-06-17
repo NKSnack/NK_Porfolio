@@ -1,6 +1,7 @@
 #   Homework 6 Customer Segmentation
 
-Name : Nattakit Keawwilai        6220422030
+Name : Nattakit Keawwilai        
+ID : 6220422030
 #### Dataset : CSV file Retail Supermarket.
 
 #### Method : 
