@@ -1,6 +1,7 @@
 #   Homework 7 Product Recommendation
 
-Name : Nattakit Keawwilai        6220422030
+Name : Nattakit Keawwilai        
+ID : 6220422030
 #### Dataset : Customer Survey from students BADS CRM Analytics 
 
 #### Data Preparation 
