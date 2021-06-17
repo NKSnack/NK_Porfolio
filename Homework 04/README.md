@@ -2,4 +2,6 @@
 Name : Nattakit Keawwilai          6220422030
 #### Topic : Customer Journey MAP
 
+![Screenshot](customerjourney.JPG)
+
 ![Screenshot](customerjourney2.JPG)
