@@ -8,3 +8,7 @@ Name : Nattakit Keawwilai        6220422030
 2) Data preparation process to do Aggregate data and created data feature to created K-mean clustering model.
 
 ![Screenshot](trainingOptions.JPG)
+
+Selected 2 Features : TOTAL SPEND & TOTAL VISIT 
+
+![Screenshot](Kmean.JPG)
