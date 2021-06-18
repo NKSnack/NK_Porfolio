@@ -14,6 +14,6 @@ ID : 6220422030
 ### Churn Customer - Customers that appear last month but this month did not appear.
 
 ## Customer Movement Analysis
-![Screenshot](Graph.JPG)
+
 
 
