@@ -15,4 +15,4 @@ ID : 6220422030
 
 ## Customer Movement Analysis
 
-
+![Screenshot](Graph2.JPG)
