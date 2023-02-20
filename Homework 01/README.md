@@ -1,6 +1,5 @@
-#   Homework 1 Customer Survey 
-Name : Nattakit Keawwilai        
-ID : 6220422030
+# Customer Survey 
+
 #### Dataset : Questionare surveys from students on CRM Analytics Class.
 #### DATA Preparation : 
  1) To export survey data from GoogleForm 
